@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgchungxda" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgchungxda" tvg-shift=0 m3uautoload=1 https://raw.githubusercontent.com/chungxda/IPTV/main/ChungXDAofficial.m3u
 #EXTM3U url-tvg="http://iptv4u.online/schedule/epg.xml" tvg-shift=0 m3uautoload=2
 #EXTM3U url-tvg="http://www.vietcago.net/live/xmltv.xml" tvg-shift=0 m3uautoload=3
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=4
