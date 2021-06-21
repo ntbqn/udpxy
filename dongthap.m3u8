@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="http://gg.gg/epgmytv"
+ 
+#EXTINF:-1 bitrate="" parent-code="1234" audio-track="Vie" group-title="HBO ASIA" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-channel-logo-white-hbo.png" tvg-name="HBO" x-tvg-url="http://gg.gg/epgvn03" tvg-id="hbohd-asia",DONG THAP 1
+ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+https://livecdn.fptplay.net/sdc/dongthap_2000.stream/chunklist.m3u8
+#http://gg.gg/hbo-m3u8
