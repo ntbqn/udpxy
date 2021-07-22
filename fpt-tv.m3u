@@ -46,7 +46,7 @@ http://192.168.3.1:11221/udp/225.1.2.74:30120
 #EXTINF:-1 tvg-id="babytvhd" group-title="Kênh quốc tế" tvg-logo="https://static.megavie.live/media/babytvhd.jpg",BabyTV HD
 http://192.168.3.1:11221/udp/225.1.2.146:30120
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="Kênh quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/CBeebies.svg",CbeeBies
+#EXTINF:-1 tvg-id="cbeebies" group-title="Kênh quốc tế" tvg-logo="https://i.imgur.com/u4LU3iR.png",CbeeBies
 http://192.168.3.1:11221/udp/225.1.1.134:30120
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Kênh quốc tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png",Cartoon Network HD
