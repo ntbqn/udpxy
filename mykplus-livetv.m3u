@@ -1,0 +1,121 @@
+#EXTM3U ntbqn sưu tầm fix 2019.05.05 cache=500 deinterlace=1 aspect-ratio=16:9 url-tvg="http://gg.gg/epgvn03" tvg-link="http://gg.gg/epgmytv" refresh="3600" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+ Cine" group-title="K+",K+ Cine
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="klifehd" tvg-name="K+ Life" group-title="K+",K+ Life
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ Sport 1" group-title="K+",K+ Sport1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ Sport 2" group-title="K+",K+ Sport2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" group-title="K+",K+KIDS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd.
+
+#EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="K+On Sport" group-title="K+",K+ On Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mpd
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="K+ The Thao TV" group-title="K+",K+ The Thao TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000196&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-thethaotv_fps.isml/prod_vtvcab3-thethaotv_fps.mpd
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="K+ Bong Da TV" group-title="K+",K+ Bong Da TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000197&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vstv.broadpeak-aas.com/live/prod_vtvcab16-bongdatv_fps/prod_vtvcab16-bongdatv_fps.isml/prod_vtvcab16-bongdatv_fps.mpd
+
+#EXTINF:-1 tvg-id="hbohd" tvg-name="K+ HBO" group-title="K+" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" ,K+ HBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000171&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_hbo_fps/prod_hbo_fps.isml/prod_hbo_fps.mpd
+
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="K+ Cinemax" group-title="K+" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png" ,K+ Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000219&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_cinemax_fps/prod_cinemax_fps.isml/prod_cinemax_fps.mpd
+
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="K+ Discovery Asia" group-title="K+" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" ,K+ Discovery Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000181&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_discovery_asia_fps/prod_discovery_asia_fps.isml/prod_discovery_asia_fps.mpd
+
+#EXTINF:-1 tvg-id="ngchd" tvg-name="K+ National Geographic HD" group-title="K+" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png" ,K+ National Geographic HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000058&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_ngc_hd_fps/prod_ngc_hd_fps.isml/prod_ngc_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="K+LIVE 1" tvg-name="K+ LIVE 1" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/K%2B_Live_1.png/revision/latest/scale-to-width-down/190?cb=20211013135146&path-prefix=vi" ,K+ LIVE 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000051&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_1_fps/prod_mykplus_live_tv_1_fps.isml/prod_mykplus_live_tv_1_fps.mpd
+
+#EXTINF:-1 tvg-id="K+LIVE 2" tvg-name="K+ LIVE 2" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/K%2B_Live_2.png/revision/latest/scale-to-width-down/190?cb=20211013135722&path-prefix=vi" ,K+ LIVE 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000052&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_2_fps/prod_mykplus_live_tv_2_fps.isml/prod_mykplus_live_tv_2_fps.mpd
+
+#EXTINF:-1 tvg-id="K+LIVE 3" tvg-name="K+ LIVE 3" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/K%2B_Live_3.png/revision/latest/scale-to-width-down/190?cb=20211013135816&path-prefix=vi" ,K+ LIVE 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000053&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_mykplus_live_tv_3_fps/prod_mykplus_live_tv_3_fps.isml/prod_mykplus_live_tv_3_fps.mpd
+
+
+#EXTINF:-1 tvg-id="axnhd" tvg-name="K+ AXN HD" group-title="K+" tvg-logo="https://onetv.click/logo/axn.png" ,K+ AXN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=4000000171&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_axn_hd_fps/prod_axn_hd_fps.isml/prod_axn_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="paramouthd" tvg-name="K+ Paramout HD" group-title="K+" tvg-logo="https://onetv.click/logo/paramouthd.jpg" ,K+ Paramout HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000028&SessionId=B17BD1C6CEFCE6EE&Ticket=A1D094669CE15F7F
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_paramount_network_fps/prod_paramount_network_fps.isml/prod_paramount_network_fps.mpd
+
